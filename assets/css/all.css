@@ -1,0 +1,67 @@
+* .container {
+    display: flex;
+    
+    
+  }
+  
+  .content-section {
+    width: 40%;
+    flex: 70%;
+    padding-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    text-align: justify;
+    align-items: center;
+  }
+  #action-button-contact a {
+    text-decoration: none;
+  }
+  #contact-button {
+    margin-right: 20px;
+  }
+  #contact-button button {
+    border: none;
+    background: #0c0f13;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 10px 25px;
+    border-radius: 20px;
+  }
+  #download-cv button {
+    border: none;
+    background: none;
+    font-weight: arial;
+    color: #0a0d10;
+    border-radius: 20px;
+    font-size: 16px;
+  }
+  #download-cv button i {
+    margin-left: 5px;
+    color: #111316;
+  }
+  
+  #profile {
+
+    width: 35%;
+    border-radius: 10px;
+    box-shadow: 0 8px 32px rgba(29,29,29,0.25);
+  }
+  #profile img {
+    width: 360px;
+    height:370px;
+    border-radius: 10px 10px 0 0;
+  }
+  #profile div {
+    padding: 20px 0;
+  }
+  #profile div h2 {
+    margin: 0;
+    margin-bottom: 3px;
+    text-align: center;
+  }
+  #profile div p {
+    margin: 0;
+    text-align: center;
+  }
